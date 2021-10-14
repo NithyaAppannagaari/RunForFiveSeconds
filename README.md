@@ -22,7 +22,7 @@ Use the starter code to program a kitbot to drive forward for five seconds.
 ### Drive5Seconds.java
 * Attributes
       * Drivetrain object
-      * Start time when the program runs - (int)
+      * Start time when the program runs - (double)
 * Complete the constructor
 * Complete the following methods
     * initialize()
