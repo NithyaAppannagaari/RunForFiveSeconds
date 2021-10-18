@@ -19,6 +19,8 @@ Use the starter code to program a kitbot to drive forward for five seconds.
       * Runs the motors given the motor speed of the right and left motors
     * stopMotors() 
       * Stops the motors
+    * updateDashboard()
+      * Updates the smart dashboard with encoder values and motor outputs periodically
 ### Drive5Seconds.java
 * Attributes
       * Drivetrain object
