@@ -23,8 +23,8 @@ Use the starter code to program a kitbot to drive forward for five seconds.
       * Updates the smart dashboard with encoder values and motor outputs periodically
 ### Drive5Seconds.java
 * Attributes
-      * Drivetrain object
-      * Start time when the program runs - (double)
+    * Drivetrain object
+    * Start time when the program runs - (double)
 * Complete the constructor
 * Complete the following methods
     * initialize()
